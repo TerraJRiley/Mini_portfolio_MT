@@ -9,7 +9,9 @@ Also, in Toxic Watch Project I’ve set it up to avoid redundancies within the c
 
 ### Automate classifying contracts by the type of purchase using North American Industry Classification System (NAICS) code.  This has previously been done by querying text fields for keywords
 I have created a number of classification models and am curious to learn more about the NAICS.
+
 [Twitter Neural Network](https://github.com/TerraJRiley/Neural_Network_on_Tweets/blob/master/Twitter_neural_network.ipynb)
+
 [Predicting if Loans would be given or not](https://github.com/TerraJRiley/Loan_Prediction/blob/master/Loan_Predictor.ipynb)
 
 
